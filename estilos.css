@@ -1,0 +1,19 @@
+body{
+    background-image: url(fondo_figuras.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+#fondo{
+    background-color: #ffeb3b;
+    width: 800px;
+    height: auto;
+}
+#links{
+    background-color: #6d6d6d;
+    width: 300px;
+    display: 
+    inline-block;
+}
+h1{
+    color: #424242;
+}
