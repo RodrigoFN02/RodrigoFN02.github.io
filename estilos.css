@@ -17,3 +17,9 @@ body{
 h1{
     color: #424242;
 }
+#carusel{
+    width: 800px;
+    height: 30px;
+    font-size: 20px;
+    background-color: #ffff72;
+}
